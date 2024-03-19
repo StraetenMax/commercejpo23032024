@@ -67,7 +67,7 @@
                    <strong>Invitation à la JPO du 23 mars 2024</strong>
                 </mj-text>
                 <mj-text align="left" mj-class="d-titre" font-weight="700" css-class="m-padding">
-                Rejoignez Ecosup Hôtellerie
+                Rejoignez Ecosup Commerce
                 </mj-text>
             </mj-column>
         </mj-section>
@@ -75,7 +75,7 @@
         <mj-section mj-class="d-section">
             <mj-column>
                 <mj-text mj-class="d-text" css-class="m-padding">
-                <strong>{{ contact.PRENOM }}</strong>, vous avez choisi de vous investir dans les métiers de l'Hôtellerie et de la Restauration, mais vous ne connaissez pas les atouts de notre école (formations en alternance, intervenants reconnus, structure familiale... ). Alors rencontrons-nous lors de notre <strong>Journée Portes Ouvertes</strong>, 
+                <strong>{{ contact.PRENOM }}</strong>, vous avez choisi de vous investir dans les métiers du commerce, mais vous ne connaissez pas les atouts de notre école (formations en alternance, intervenants reconnus, structure familiale... ). Alors rencontrons-nous lors de notre <strong>Journée Portes Ouvertes</strong>, 
                 </mj-text>
                  <mj-text mj-class="d-date" css-class="m-padding" font-weight="700">
                 le Samedi 23 mars de 9h30 à 13h.
@@ -91,13 +91,13 @@
                 A bientôt !
                 </mj-text>
                 <mj-text padding="0 60px 0 300px" mj-class="d-signature" css-class="m-padding-signature2" font-weight="600">
-                Hélène <span style="text-transform:uppercase">Salmon</span>
+                Marie Laurence <span style="text-transform:uppercase">Wallaert</span>
                 </mj-text>
                 <mj-text padding="0 60px 0 300px" mj-class="d-signature" css-class="m-padding-signature2" font-weight="400">
                 Responsable pédagogique
                 </mj-text>
                 <mj-text padding="0 60px 0 300px" mj-class="d-signature" css-class="m-padding-signature2" font-weight="400">
-                Ecosup Hôtellerie
+                Ecosup Commerce
                 </mj-text>    
                 </mj-column>
                 </mj-section>
